@@ -1,0 +1,2 @@
+# Mod_Mirror_Chinese
+帮助模组浏览器将模组名称翻译成中文
