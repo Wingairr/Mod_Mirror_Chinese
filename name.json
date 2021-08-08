@@ -1,11 +1,11 @@
 [
     {
         "name": "ExampleMod",
-        "translate": ""
+        "translate": "示例MOD"
     },
     {
         "name": "TheLuggage",
-        "translate": ""
+        "translate": "行礼箱"
     },
     {
         "name": "SummonersAssociation",
@@ -17,7 +17,7 @@
     },
     {
         "name": "CaveStory",
-        "translate": ""
+        "translate": "洞穴故事"
     },
     {
         "name": "imkSushisMod",
@@ -41,11 +41,11 @@
     },
     {
         "name": "DyeEasy",
-        "translate": ""
+        "translate": "更容易的染料制作"
     },
     {
         "name": "HelpfulHotkeys",
-        "translate": ""
+        "translate": "更好用的热键"
     },
     {
         "name": "BattleHardenedNPC",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Infinity",
-        "translate": ""
+        "translate": "无限物品"
     },
     {
         "name": "ThoriumMod",
@@ -117,7 +117,7 @@
     },
     {
         "name": "MoreGunsMod",
-        "translate": ""
+        "translate": "更多枪械模组"
     },
     {
         "name": "Ersion",
@@ -125,7 +125,7 @@
     },
     {
         "name": "MoreMirrors",
-        "translate": ""
+        "translate": "更多镜子"
     },
     {
         "name": "BettertakeaPowerTool",
@@ -137,7 +137,7 @@
     },
     {
         "name": "SkyblockMod",
-        "translate": ""
+        "translate": "空岛模组"
     },
     {
         "name": "RPG",
@@ -193,7 +193,7 @@
     },
     {
         "name": "SimpleAutoChests",
-        "translate": ""
+        "translate": "简单自动箱子"
     },
     {
         "name": "DartExpansion",
@@ -217,11 +217,11 @@
     },
     {
         "name": "Pumpking",
-        "translate": ""
+        "translate": "南瓜模组"
     },
     {
         "name": "CheatHotkeys",
-        "translate": ""
+        "translate": "作弊快捷键"
     },
     {
         "name": "LargeWorldEnabler",
@@ -241,7 +241,7 @@
     },
     {
         "name": "MultiLure",
-        "translate": ""
+        "translate": "多重诱饵"
     },
     {
         "name": "TrueEater",
@@ -249,7 +249,7 @@
     },
     {
         "name": "SolutionsMod",
-        "translate": ""
+        "translate": "更多溶液"
     },
     {
         "name": "CraftingPlus",
@@ -389,7 +389,7 @@
     },
     {
         "name": "Wormholes",
-        "translate": ""
+        "translate": "虫洞"
     },
     {
         "name": "ItemChecklist",
@@ -429,7 +429,7 @@
     },
     {
         "name": "CookieMod",
-        "translate": ""
+        "translate": "饼干模组"
     },
     {
         "name": "CancanxzMod",
@@ -437,7 +437,7 @@
     },
     {
         "name": "Lottery",
-        "translate": ""
+        "translate": "彩票"
     },
     {
         "name": "GeronimosTinkerings",
