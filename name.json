@@ -5,7 +5,7 @@
     },
     {
         "name": "TheLuggage",
-        "translate": "行李箱"
+        "translate": "箱子宠物"
     },
     {
         "name": "SummonersAssociation",
@@ -45,7 +45,7 @@
     },
     {
         "name": "HelpfulHotkeys",
-        "translate": "更好用的热键"
+        "translate": "更好用的快捷键"
     },
     {
         "name": "BattleHardenedNPC",
@@ -69,7 +69,7 @@
     },
     {
         "name": "CheezeMod",
-        "translate": ""
+        "translate": "奶酪的内容包"
     },
     {
         "name": "Infinity",
@@ -81,7 +81,7 @@
     },
     {
         "name": "ZoaklenMod",
-        "translate": ""
+        "translate": "Zoaklen的模组"
     },
     {
         "name": "ShorterRespawn",
@@ -133,7 +133,7 @@
     },
     {
         "name": "GabeHasWonsMod",
-        "translate": ""
+        "translate": "GabeHasWon的模组"
     },
     {
         "name": "SkyblockMod",
@@ -161,7 +161,7 @@
     },
     {
         "name": "FastStart",
-        "translate": ""
+        "translate": "快速开荒"
     },
     {
         "name": "Craftable Living Wood Stuff",
@@ -225,11 +225,11 @@
     },
     {
         "name": "LargeWorldEnabler",
-        "translate": ""
+        "translate": "更大世界"
     },
     {
         "name": "InsightReborn",
-        "translate": ""
+        "translate": "箱子微察"
     },
     {
         "name": "WingSlot",
@@ -285,7 +285,7 @@
     },
     {
         "name": "Wireless",
-        "translate": ""
+        "translate": "无线"
     },
     {
         "name": "imkSushisNamePack",
@@ -293,7 +293,7 @@
     },
     {
         "name": "BetterYoyos",
-        "translate": ""
+        "translate": "更好的悠悠球"
     },
     {
         "name": "W1KModRedux",
@@ -329,7 +329,7 @@
     },
     {
         "name": "PotionMOD",
-        "translate": ""
+        "translate": "药水商人"
     },
     {
         "name": "BossChecklist",
@@ -357,7 +357,7 @@
     },
     {
         "name": "Durability",
-        "translate": ""
+        "translate": "工具耐久"
     },
     {
         "name": "Injury",
@@ -377,11 +377,11 @@
     },
     {
         "name": "Stamina",
-        "translate": ""
+        "translate": "体力值"
     },
     {
         "name": "ZM",
-        "translate": ""
+        "translate": "Zocklukas的模组"
     },
     {
         "name": "MoreAccessories",
@@ -593,7 +593,7 @@
     },
     {
         "name": "WheresMyItems",
-        "translate": ""
+        "translate": "我的物品在哪"
     },
     {
         "name": "LearnByDoing",
@@ -729,7 +729,7 @@
     },
     {
         "name": "Hunger",
-        "translate": ""
+        "translate": "饥饿"
     },
     {
         "name": "chadsfurni",
@@ -8301,7 +8301,7 @@
     },
     {
         "name": "TouhouMod",
-        "translate": ""
+        "translate": "东方模组"
     },
     {
         "name": "Gstats",
