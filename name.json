@@ -305,7 +305,7 @@
     },
     {
         "name": "WorldGenPreviewer",
-        "translate": ""
+        "translate": "世界生成预览"
     },
     {
         "name": "NormalGelForMolotov",
@@ -345,7 +345,7 @@
     },
     {
         "name": "MoreChestLoot",
-        "translate": ""
+        "translate": "更多的箱子战利品"
     },
     {
         "name": "UniverseOfSwordsMod",
@@ -417,7 +417,7 @@
     },
     {
         "name": "Boxinator",
-        "translate": ""
+        "translate": "拳击手"
     },
     {
         "name": "ExperienceAndClasses",
@@ -529,7 +529,7 @@
     },
     {
         "name": "DropCrazy",
-        "translate": ""
+        "translate": "疯狂掉落"
     },
     {
         "name": "VeryShortRespawn",
@@ -601,7 +601,7 @@
     },
     {
         "name": "LootBags",
-        "translate": ""
+        "translate": "战利品袋子"
     },
     {
         "name": "JPANsBagsOfHoldingMod",
@@ -689,7 +689,7 @@
     },
     {
         "name": "Gem_Pickaxes",
-        "translate": ""
+        "translate": "宝石镐子"
     },
     {
         "name": "TheCrack",
@@ -749,7 +749,7 @@
     },
     {
         "name": "op_pickaxe",
-        "translate": ""
+        "translate": "OP镐子"
     },
     {
         "name": "LaserSight",
@@ -773,11 +773,11 @@
     },
     {
         "name": "dropyourweapon",
-        "translate": ""
+        "translate": "掉落你的武器！"
     },
     {
         "name": "MorePotions",
-        "translate": ""
+        "translate": "更多药水"
     },
     {
         "name": "CthulusGrasp",
